@@ -3,7 +3,7 @@
 # **Projeto - FlappyBird - Game**
 
 ## **Sobre:**
-Este projeto foi desenvolvido em um curso sobre desenvolvimento de jogos com Javascript, sendo o terceiro de 4 jogos que são produzidos durante o curso. O objetivo do jogo é fazer com que o pássaro percorra o cenário desviando dos canos e coletando o maior número de moedas possível. O pássaro se move apenas para a direita e de forma automática, de modo que o jogador deve mantê-lo no ar através do clique. O gameover ocorre quando o pássaro colide com os canos.
+Este projeto foi desenvolvido em um curso sobre desenvolvimento de jogos com Javascript, sendo o terceiro de 4 jogos que são produzidos durante o curso. O objetivo do jogo é fazer com que o pássaro percorra o cenário desviando dos canos e coletando o maior número de moedas possível. O gameover ocorre quando o pássaro colide com os canos.
 
 ---
 ## **Como jogar:**
